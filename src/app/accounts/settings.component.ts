@@ -127,6 +127,7 @@ export class SettingsComponent implements OnInit {
             { name: i18nService.t('default'), value: null },
             { name: i18nService.t('light'), value: 'light' },
             { name: i18nService.t('dark'), value: 'dark' },
+            { name: 'Material', value: 'material' },
             { name: 'Nord', value: 'nord' },
         ];
 

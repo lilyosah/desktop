@@ -139,6 +139,75 @@ $themes: (
         calloutBorderColor: #2f2f2f,
         calloutBackgroundColor: #363636,
     ),
+    material: (
+        textColor: #b1b2b4,
+
+        borderColor: #292d3e,
+
+        backgroundColor: #292d3e,
+        backgroundColorAlt: #212432,
+        backgroundColorAlt2: #292d3e,
+
+        scrollbarColor: #b1b2b4,
+        scrollbarHoverColor: #b1b2b4,
+        boxBackgroundColor: #353A51,
+        boxBackgroundHoverColor: #3a3f59,
+        // Line inbetween boxes on right
+        boxBorderColor: #292d3e,
+        // RenoIndianaPulaski 
+        headerBackgroundColor: #292d3e,
+        headerBorderColor: #292d3e,
+        headerInputBackgroundColor: #212432,
+        headerInputBackgroundFocusColor: #212432,
+        headerInputColor: #b1b2b4,
+        headerInputPlaceholderColor: #676e95,
+
+        // Middle column
+        listItemBackgroundColor: #292d3e,
+        listItemBackgroundHoverColor: #353A51,
+        // Lines inbetween left
+        listItemBorderColor: #353A51,
+
+        // Selected on left panel
+        groupingsActiveColor: #292d3e,
+        disabledIconColor: #c7c7cd,
+        headingColor: #a3a3a3,
+        headingButtonColor: #a3a3a3,
+        headingButtonHoverColor: #ffffff,
+
+        // Under item name
+        labelColor: #676e95,
+        mutedColor: #676e95,
+        // ??
+        totpStrokeColor: #3ddb08,
+        // Icons (check, eye, copy)
+        boxRowButtonColor: #b1b2b4,
+        boxRowButtonHoverColor: #cccccc,
+
+        inputBorderColor: #292d3e,
+        inputBackgroundColor: #292d3e,
+        inputPlaceholderColor: #676e95,
+
+        buttonBackgroundColor: #353A51,
+        buttonBorderColor: #353A51,
+        // Text on buttons
+        buttonColor: #b1b2b4,
+        buttonPrimaryColor: #80cbc4,
+        buttonDangerColor: #f07178,
+
+        primaryColor: #80cbc4,
+        primaryAccentColor: #80cbc4,
+
+        dangerColor: #f07178,
+        successColor: #c3e883,
+        infoColor: #c792ea,
+        warningColor: #f78c6c,
+        logoSuffix: 'white',
+        passwordNumberColor: #82aaff,
+        passwordSpecialColor: #f07178,
+        calloutBorderColor: #212432,
+        calloutBackgroundColor: #212432,
+    ),
     nord: (
         textColor: $nord5,
         borderColor: $nord0,
