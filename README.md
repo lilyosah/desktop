@@ -9,6 +9,8 @@
 
 The Bitwarden desktop app is written using Electron and Angular. The application installs on Windows, macOS, and Linux distributions.
 
+This fork adds a Material Palenight theme. Modified settings.components.s and variables.scss
+
 ![Desktop Vault](https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/desktop-macos-vault.png "My Vault")
 
 # Build/Run
